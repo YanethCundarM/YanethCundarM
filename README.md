@@ -1,4 +1,4 @@
-<div align="center" background="black">
+<div align="center">
 <h1 align="center">Hi, I am <a href="./mybanner">Yaneth Cundar</a> 👋</h1>
 </div>
 <img src="./mybanner.png"> <br>
