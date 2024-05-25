@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:
-I am currently studying at The Kambcode Academy and I am looking for a job to continue developing this skill that I am passionate about.
+Actualmente, estoy ampliando mis conocimientos en desarrollo web en The Kambcode Academy, donde estoy inmerso en un entorno de aprendizaje dinámico y colaborativo. Estoy comprometido con mi crecimiento profesional y apasionado por el desarrollo web, con experiencia en HTML5, CSS3 y JavaScript,GitHub, Node js. 
 
 ## 💻 Academy:
 
